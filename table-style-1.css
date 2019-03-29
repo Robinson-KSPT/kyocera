@@ -2,3 +2,6 @@
   width: 50px !important;
 
 }
+.awt-searchFilter-input {
+  display: none !important;
+}
